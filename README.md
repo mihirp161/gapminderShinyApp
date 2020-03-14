@@ -27,7 +27,7 @@ Demo
 ------
 *Shiny Example*
 
-<img src="https://github.com/opendatasurgeon/gapminder_shiny_app_R/blob/master/demo/shinyDemo.gif" width="500" height="400" />
+<img src="https://github.com/opendatasurgeon/gapminder_shiny_app_R/blob/master/demo/shinyDemo.gif" width="500" height="300" />
 
 *gganimate Example*
 
