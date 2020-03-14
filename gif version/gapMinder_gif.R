@@ -5,10 +5,8 @@ library(gapminder)
 library(gganimate)
 library(scales)
 library(gifski) 
-library(RColorBrewer)
-library(cowplot)
 
-#Simple animate version
+#Simple animated version
 gap_draft <- gapminder::gapminder %>%
                 dplyr::arrange(desc(pop)) %>%
                 ggplot2::ggplot() +
@@ -27,5 +25,6 @@ gap_draft <- gapminder::gapminder %>%
                 ggplot2::scale_x_continuous(labels = scales::comma)+
                 gganimate::transition_time(year)
 
+#saves the animation
 gganimate::animate(gap_draft, nframes = 150, renderer = gifski_renderer("gapMinderGIF.gif"),height= 700, width= 1000)
 
