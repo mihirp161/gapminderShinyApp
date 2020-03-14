@@ -103,5 +103,5 @@ server <- function(input, output) {
   })
   
 }
-#Build the shiny module
+#Build the shiny module (you can run it here by uncommenting or through app.r)
 #shiny::shinyApp(ui= ui, server= server, options= list(height= 500, width= 500, scipen= 9999))
