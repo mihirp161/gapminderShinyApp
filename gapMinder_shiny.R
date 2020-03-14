@@ -104,4 +104,5 @@ server <- function(input, output) {
   
 }
 #Build the shiny module
-shiny::shinyApp(ui= ui, server= server, options= list(height= 500, width= 500, scipen= 9999))
+#shiny::shinyApp(ui= ui, server= server, options= list(height= 500, width= 500, scipen= 9999))
+#shiny::runGitHub("gapminder_shiny_app_R", "opendatasurgeon")
