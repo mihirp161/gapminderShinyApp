@@ -26,10 +26,12 @@ shiny, ggplot2, shinyWidget, shinythemes, gapminder
 Demo
 ------
 *Shiny Example*
-<img src="https://github.com/opendatasurgeon/gapminder_shiny_app_R/blob/master/demo/shinyDemo.gif" width="500" height="200" />
+
+<img src="https://github.com/opendatasurgeon/gapminder_shiny_app_R/blob/master/demo/shinyDemo.gif" width="500" height="500" />
 
 *gganimate Example*
-<img src="https://github.com/opendatasurgeon/gapminder_shiny_app_R/blob/master/demo/animatedDemo.gif" width="300" height="300" />
+
+<img src="https://github.com/opendatasurgeon/gapminder_shiny_app_R/blob/master/demo/animatedDemo.gif" width="500" height="500" />
 
 License
 --------
