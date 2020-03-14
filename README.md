@@ -1,6 +1,6 @@
 Project
 -------
-Visualising Gapminder's Bubbles with Shiny
+Visualising Gapminder's Bubbles with Shiny & gganimate
 
 Project Description
 --------------------
