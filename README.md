@@ -12,8 +12,8 @@ Mihir Patel
 
 Status
 ------
-Paused 
-*Will add the density curve and trailing bubbles in future.*
+Current: Paused     
+Next: Density curve and trailing bubbles   
 
 Language
 ---------
